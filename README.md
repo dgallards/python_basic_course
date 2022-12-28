@@ -1,4 +1,4 @@
-# [Introduction](https://github.com/dgallards/python_basic_course/blob/main/introduction.ipynb "intro"
+[Introduction](https://github.com/dgallards/python_basic_course/blob/main/introduction.ipynb "# Introduction"
 Welcome to the 4-hour Basic Python course! In this course, we will cover the fundamental concepts and skills needed to get started with Python programming. By the end of this course, you will have a strong foundation in Python and be able to apply your knowledge to solve real-world problems.
 
 ## Course Outline
