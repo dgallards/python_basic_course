@@ -1,40 +1,40 @@
-# Introduction
-Welcome to the 4-hour Basic Python course! In this course, we will cover the fundamental concepts and skills needed to get started with Python programming. By the end of this course, you will have a strong foundation in Python and be able to apply your knowledge to solve real-world problems.
+# Introducción
+¡Bienvenido al curso Básico de Python de 4 horas! En este curso, vamos a cubrir los conceptos fundamentales y las habilidades necesarias para empezar con la programación en Python. Al final de este curso, tendrás una base sólida en Python y serás capaz de aplicar estos conocimientos para resolver problemas del mundo real.
 
-## Course Outline
-### [Introduction to Python (30 minutes)](https://github.com/dgallards/python_basic_course/blob/main/introduction.ipynb "Introduction to Python (30 minutes)")
+## Esquema del curso
+### [Introducción a Python (30 minutos)](https://github.com/dgallards/python_basic_course/blob/main/introduction.ipynb "Introducción a Python (30 minutos)")
 
-1. What is Python and why is it popular?
-2. Setting up a development environment
-3. Basic syntax and data types
+1. Qué es Python y por qué es tan popular?
+2. Configuración de un entorno de desarrollo
+3. Sintaxis básica y tipos de datos
 
-### Control structures (45 minutes)
+### Estructuras de control (45 minutos)
 
-1. Conditional statements (if/else)
-2. Loops (for, while)
-3. Examples of using control structures to solve problems
+1. Sentencias condicionales (if/else)
+2. Bucles (for, while)
+3. Ejemplos de uso de estructuras de control para resolver problemas
 
-### Functions (45 minutes)
+### Funciones (45 minutos)
 
-1. Defining and calling functions
-2. Parameters and return values
-3. Scope and global variables
-4. Examples of using functions to organize code
+1. Definición y llamada a funciones
+2. Parámetros y valores de retorno
+3. Ámbito y variables globales
+4. Ejemplos de uso de funciones para organizar el código
 
-### Working with data (45 minutes)
+### Trabajar con datos (45 minutos)
 
-1. Reading and writing files
-2. Manipulating strings
-3. List and dictionary operations
-4. Examples of using data manipulation techniques
+1. Lectura y escritura de archivos
+2. Manipulación de cadenas
+3. Operaciones con listas y diccionarios
+4. Ejemplos de utilización de técnicas de manipulación de datos
 
-### Object-Oriented Programming (45 minutes)
+### Programación Orientada a Objetos (45 minutos)
 
-1. Defining and using classes
-2. Inheritance and polymorphism
-3. Examples of using OOP to design programs
+1. Definición y utilización de clases
+2. Herencia y polimorfismo
+3. Ejemplos de uso de la programación orientada a objetos para diseñar programas
 
-### Q&A (30 min)
-- Explain questions and doubts
+### Preguntas y respuestas (30 min)
+- Explicar preguntas y dudas
 
-Throughout the course, we will provide interactive exercises and examples to help reinforce the concepts being taught. By the end of this course, you will have a solid understanding of Python and be able to start applying your skills to real-world projects.
+A lo largo del curso, proporcionaremos ejercicios interactivos y ejemplos para ayudar a reforzar los conceptos que se enseñan.
