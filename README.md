@@ -2,7 +2,7 @@
 Welcome to the 4-hour Basic Python course! In this course, we will cover the fundamental concepts and skills needed to get started with Python programming. By the end of this course, you will have a strong foundation in Python and be able to apply your knowledge to solve real-world problems.
 
 ## Course Outline
-### Introduction to Python (30 minutes)
+### [Introduction to Python (30 minutes)](https://github.com/dgallards/python_basic_course/blob/main/introduction.ipynb "Introduction to Python (30 minutes)")
 
 1. What is Python and why is it popular?
 2. Setting up a development environment
