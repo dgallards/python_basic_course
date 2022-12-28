@@ -2,13 +2,13 @@
 ¡Bienvenido al curso Básico de Python de 4 horas! En este curso, vamos a cubrir los conceptos fundamentales y las habilidades necesarias para empezar con la programación en Python. Al final de este curso, tendrás una base sólida en Python y serás capaz de aplicar estos conocimientos para resolver problemas del mundo real.
 
 ## Esquema del curso
-### [Introducción a Python (30 minutos)](https://github.com/dgallards/python_basic_course/blob/spanish/introduction.ipynb "Introducción a Python (30 minutos)")
+### [Introducción a Python (30 minutos)](https://github.com/dgallards/python_basic_course/blob/spanish/introduction.ipynb) "Introducción a Python (30 minutos)")
 
 1. Qué es Python y por qué es tan popular?
 2. Configuración de un entorno de desarrollo
 3. Sintaxis básica y tipos de datos
 
-### Estructuras de control (45 minutos)
+### [Estructuras de control (45 minutos)](https://github.com/dgallards/python_basic_course/blob/spanish/control_structures.ipynb)"Estructuras de control (45 minutos)"
 
 1. Sentencias condicionales (if/else)
 2. Bucles (for, while)
