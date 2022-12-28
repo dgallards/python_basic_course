@@ -4,7 +4,7 @@
 ## Esquema del curso
 ### [Introducción a Python (30 minutos)](https://github.com/dgallards/python_basic_course/blob/spanish/introduction.ipynb "Introducción a Python (30 minutos)") 
 
-1. Qué es Python y por qué es tan popular?
+1. ¿Qué es Python y por qué es tan popular?
 2. Configuración de un entorno de desarrollo
 3. Sintaxis básica y tipos de datos
 
