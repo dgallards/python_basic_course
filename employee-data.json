@@ -1,0 +1,84 @@
+{
+  "Employees": [
+    {
+      "userId": "krish",
+      "jobTitle": "Developer",
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "employeeCode": "E1",
+      "region": "CA",
+      "phoneNumber": "788456123",
+      "emailAddress": "krish.lee@examplepython.com"
+    },
+    {
+      "userId": "devid",
+      "jobTitle": "Developer",
+      "firstName": "Devid",
+      "lastName": "Rome",
+      "employeeCode": "E2",
+      "region": "CA",
+      "phoneNumber": "675342186",
+      "emailAddress": "devid.rome@examplepython.com"
+    },
+    {
+      "userId": "tin",
+      "jobTitle": "Program Directory",
+      "firstName": "tin",
+      "lastName": "jonson",
+      "employeeCode": "E3",
+      "region": "CA",
+      "phoneNumber": "698732145",
+      "emailAddress": "tin.jonson@examplepython.com"
+    },
+    {
+      "userId": "alonso",
+      "jobTitle": "Program Directory",
+      "firstName": "Alonso",
+      "lastName": "Benitez",
+      "employeeCode": "J2",
+      "region": "TX",
+      "phoneNumber": "654964948",
+      "emailAddress": "alonso.benitez@examplepython.com"
+    },
+    {
+      "userId": "carla",
+      "jobTitle": "RR.HH",
+      "firstName": "Carla",
+      "lastName": "González",
+      "employeeCode": "E3",
+      "region": "TX",
+      "phoneNumber": "632198172",
+      "emailAddress": "carla.gonzalez@examplepython.com"
+    },
+    {
+      "userId": "paula",
+      "jobTitle": "Web Developer",
+      "firstName": "Paula",
+      "lastName": "García",
+      "employeeCode": "J3",
+      "region": "CA",
+      "phoneNumber": "623485397",
+      "emailAddress": "paula.garcia@examplepython.com"
+    },
+    {
+      "userId": "gonzalo",
+      "jobTitle": "Manager",
+      "firstName": "Gonzalo",
+      "lastName": "Carrasco",
+      "employeeCode": "S3",
+      "region": "NY",
+      "phoneNumber": "632459878",
+      "emailAddress": "gonzalo.carrasco@examplepython.com"
+    },
+    {
+      "userId": "rebeca",
+      "jobTitle": "IT",
+      "firstName": "Rebeca",
+      "lastName": "Sanchez",
+      "employeeCode": "E1",
+      "region": "NY",
+      "phoneNumber": "698745124",
+      "emailAddress": "rebeca.sanchez@examplepython.com"
+    }
+  ]
+}
