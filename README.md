@@ -21,7 +21,7 @@
 3. Ámbito y variables globales
 4. Ejemplos de uso de funciones para organizar el código
 
-### Trabajar con datos (45 minutos)
+### Trabajar con datos y archivos (45 minutos)
 
 1. Lectura y escritura de archivos
 2. Manipulación de cadenas
