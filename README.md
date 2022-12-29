@@ -14,7 +14,7 @@
 2. Bucles (for, while)
 3. Ejemplos de uso de estructuras de control para resolver problemas
 
-### Funciones (45 minutos)
+### [Funciones (45 minutos)](https://github.com/dgallards/python_basic_course/blob/spanish/functions.ipynb "Funciones (45 minutos)")
 
 1. Definición y llamada a funciones
 2. Parámetros y valores de retorno
@@ -28,7 +28,7 @@
 3. Operaciones con listas y diccionarios
 4. Ejemplos de utilización de técnicas de manipulación de datos
 
-### Programación Orientada a Objetos (45 minutos)
+### [Programación Orientada a Objetos (45 minutos)](https://github.com/dgallards/python_basic_course/blob/spanish/oop.ipynb "Programación Orientada a Objetos (45 minutos)")
 
 1. Definición y utilización de clases
 2. Herencia y polimorfismo
